@@ -12,5 +12,3 @@ Atte ändrar
 Isak ändrar
 
 dab
-
-asd 10.33

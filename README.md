@@ -1,10 +1,9 @@
 # Ramverk-Grupp3
 Grupparbete i ramverkskursen
 
-Alex Ändrar 10.05!
+Alex Ändrar 10.05
 
-10:12 kasi
-
+Kasimir 10:12 
 
 Atte ändrar
 

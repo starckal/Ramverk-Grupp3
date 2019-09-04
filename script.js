@@ -1,6 +1,6 @@
 window.onload = function() {
     // Lyssna efter händelser
-    document.getElementsByClassName("team-name").addEventListener("click", editTitle);
+    
 }
 var editTitle = function(e) {
     // Ändra "team-title"
@@ -15,3 +15,4 @@ function effectOn(id){
 function effectOff(id){
     // Stäng av effekten när musen inte längre är ovanför personen
 }
+document.getElementsByClassName("team-name").addEventListener("click", editTitle);

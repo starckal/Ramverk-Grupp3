@@ -1,8 +1,11 @@
 window.onload = function() {
     // Lyssna efter händelser
+    document.getElementsByClassName("team-name").addEventListener("click", editTitle);
 }
 var editTitle = function(e) {
     // Ändra "team-title"
+    alert("hej");
+    
 };
 
 function effectOn(id){
